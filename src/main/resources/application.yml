@@ -1,0 +1,5 @@
+github:
+  organization: micronaut-projects
+  repo: micronaut-core
+  username: yourgithubusername
+  token: xxxxxxxxxxxx
